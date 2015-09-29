@@ -1,4 +1,4 @@
 # hello-world-github
 My first repository
 
-**Je suis tout ému(e) !**
+**Je suis tout ému**
